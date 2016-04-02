@@ -1,8 +1,10 @@
-===gulp-enb-shim===
+##gulp-enb-shim
 
 Use your old `enb` techs with `gulp-bem`
 
-Example:
+Note: this shim supports only tech created with `build-flow` but most of your techs are likely to be created with `build-flow`
+
+###Example:
 ```js
 'use strict';
 
