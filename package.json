@@ -1,0 +1,18 @@
+{
+  "name": "gulp-enb-shim",
+  "version": "0.0.1",
+  "description": "Use your old `enb` techs with `gulp-bem`",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "enb": "^1.2.0",
+    "through2": "^2.0.1",
+    "vinyl": "^1.1.1",
+    "vow": "^0.4.12"
+  }
+}
